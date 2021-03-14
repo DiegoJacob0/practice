@@ -1,0 +1,16 @@
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\bin\Debug\net5.0\hola.exe
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\bin\Debug\net5.0\hola.deps.json
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\bin\Debug\net5.0\hola.runtimeconfig.json
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\bin\Debug\net5.0\hola.runtimeconfig.dev.json
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\bin\Debug\net5.0\hola.dll
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\bin\Debug\net5.0\ref\hola.dll
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\bin\Debug\net5.0\hola.pdb
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\obj\Debug\net5.0\hola.csprojAssemblyReference.cache
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\obj\Debug\net5.0\hola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\obj\Debug\net5.0\hola.AssemblyInfoInputs.cache
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\obj\Debug\net5.0\hola.AssemblyInfo.cs
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\obj\Debug\net5.0\hola.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\obj\Debug\net5.0\hola.dll
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\obj\Debug\net5.0\ref\hola.dll
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\obj\Debug\net5.0\hola.pdb
+C:\Users\DIEGO\Desktop\Proyecyo\aquu\hola\obj\Debug\net5.0\hola.genruntimeconfig.cache
